@@ -1,13 +1,15 @@
 # Xcode
 DerivedData/
+build/
+*.xcworkspace
 *.xcuserdata/
 *.xcuserstate
-
-# Build products
-build/
-*.o
-*.LinkFileList
-*.hmap
+*.xccheckout
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
 
 # Swift Package Manager
 /.build
@@ -27,10 +29,11 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 
-# Misc
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Other
 *.swp
 *.lock
-# Xcode user data
-*.xcuserstate
-*.xcuserdata/
