@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct LoginView: View {
-    
+    //Set the things
     let backgroundGradient = LinearGradient(gradient: Gradient(colors: [Color.orange,Color.red]), startPoint: .top, endPoint: .bottom)
     
     
