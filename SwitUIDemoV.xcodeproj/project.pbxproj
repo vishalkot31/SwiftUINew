@@ -54,6 +54,7 @@
 		ADA791B028B3450500006D18 /* SignupViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupViewModel.swift; sourceTree = "<group>"; };
 		ADA791B228B3453F00006D18 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
 		ADA791B428B3488F00006D18 /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		C0792C6B2EED71A2009C3F4B /* SwitUIDemoV.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = SwitUIDemoV.xcodeproj; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +109,7 @@
 				ADA791AE28B344B600006D18 /* ViewModel */,
 				AD5C3D7128B24D7B00A66462 /* Assets.xcassets */,
 				AD5C3D7328B24D7B00A66462 /* Preview Content */,
+				C0792C6B2EED71A2009C3F4B /* SwitUIDemoV.xcodeproj */,
 			);
 			path = SwitUIDemoV;
 			sourceTree = "<group>";
